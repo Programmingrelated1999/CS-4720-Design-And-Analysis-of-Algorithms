@@ -2,5 +2,5 @@
 
 These are some of the programs I have wrote for my design and analysis class. 
 
-QuickSort - Applies Count Sort on 100000 elements array and return time it took. 
+QuickSort - Applies Count Sort on 100000 elements array and return time it took. /n
 CountInversion - Count the number of inversions using MergeSort.
